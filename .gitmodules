@@ -1,0 +1,3 @@
+[submodule "melosgrano/themes/hugo-scroll"]
+	path = melosgrano/themes/hugo-scroll
+	url = https://github.com/zjedi/hugo-scroll.git
